@@ -2,7 +2,7 @@
 <p align="center">  
   <a href="">
     <img alt="Guru" height="300" src="https://i.imgur.com/rtjpVN6.jpeg">
-    <h1 align="center">GURU-BOT 2.O</h1>
+    <h1 align="center">SAVI MD </h1>
   </a>
 </p>
 <p align="center">
