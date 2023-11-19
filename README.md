@@ -1,6 +1,6 @@
 
 <p align="center">  
-  <a href="https://youtu.be/WcA7GZuaN0A">
+  <a href="">
     <img alt="Guru" height="300" src="https://i.imgur.com/rtjpVN6.jpeg">
     <h1 align="center">GURU-BOT 2.O</h1>
   </a>
