@@ -1,33 +1,32 @@
 let handler = async m => m.reply(`
 
-≡  *GURU  ┃ ᴮᴼᵀ*   GROUPS
+≡  *SAVI┃ ᴮᴼᵀ*   GROUPS
 
 ─────────────
 ▢ Join public bot group and support
-https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp
-
+coming soon
 ▢ Group 2
-https://chat.whatsapp.com/LwLQab5mZVW6WWRbBPnDGC
+coming soon
 
 ▢ Group 3
-https://chat.whatsapp.com/Jn9qVerYN6Q1L0vlVFe2XL
+coming soon
 
 ─────────────
 ≡ Disabled links? enter here! 
 
 ▢ Group WhatsApp 
- https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp
+coming soon
 ─────────────
 ▢ *Owner Telegram*
- https://t.me/i_want_to_be_isekaied
+ https://t.me/savindula
 
 ▢ *YouTube*
-• https://www.youtube.com/@Asliguru
+• coming soon
 
 
 `.trim())
-handler.help = ['gpguru']
+handler.help = ['gpsavi']
 handler.tags = ['main']
-handler.command = ['groups', 'groupguru', 'gugp', 'ggp', 'gpguru'] 
+handler.command = ['groups', 'groupsavi', 'gugp', 'ggp', 'gpsavi'] 
 
 export default handler
