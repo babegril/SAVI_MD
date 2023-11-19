@@ -1,5 +1,5 @@
 { 
-    "name": "gurubot",
+    "name": "SAVI-MD",
     "version": "2.0.0",
     "description": "Advanced WhatsApp Bot",
     "main": "index.js",
@@ -19,22 +19,22 @@
         "whatsapp",
         "js-whatsapp",
         "whatsapp",
-        "guru-bot",
-        "GURU-bot-md",
+        "savi-bot",
+        "SAVI-bot-md",
         "multi-device",
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/Guru322/GURU-BOT",
+    "homepage": "https://github.com/babegril/SAVI_MD",
     "author": {
-        "name": "GURU"
+        "name": "SAVI"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Guru322/GURU-BOT.git"
+        "url": "git+https://github.com/babegril/SAVI_MD.git"
     },
     "bugs": {
-        "url": "https://github.com/Guru322/GURU-BOT/issues"
+        "url": "https://github.com/babegril/SAVI_MD/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
